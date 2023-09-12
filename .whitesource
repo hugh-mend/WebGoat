@@ -3,15 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "baseBranches": [],
-    "enableLicenseViolations": true,
-    "enableReachability": true
-  },
-  "imageSettings": {
-    "imageTracing": {
-        "enableImageTracingPR": true,
-        "addDockerfilePath": true,
-        "addRepositoryCoordinates": true
-    }
+    "enableLicenseViolations": true
   },
   "scanSettingsSAST": {
     "enableScan": true,
